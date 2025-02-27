@@ -24,7 +24,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Janon-devv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com/?user=Janon-devv&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Janon-devv&theme=synthwave&hide_border=&border_radius=5&locale=pt_BR&short_numbers=&mode=weekly" alt="GitHub Streak"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Janon-devv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
