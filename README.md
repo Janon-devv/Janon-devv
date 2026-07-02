@@ -46,7 +46,7 @@ public class RaulJanonTeixeiraLeite {
 }
 ```
 
-> 🔄 **Transição de carreira:** Trouxe minha experiência em gestão de operações e implementação de sistemas em redes de hotéis e pousadas para o mundo da tecnologia — hoje com foco em **Qualidade de Software (QA)** e **SQL**.
+> 🔄 **Transição de carreira:** Trouxe minha experiência em gestão de operações e implementação de sistemas em redes de hotéis e pousadas para o mundo da tecnologia, hoje com foco em **Qualidade de Software (QA)** e **SQL**.
 
 ---
 
