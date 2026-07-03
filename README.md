@@ -100,12 +100,6 @@ public class RaulJanonTeixeiraLeite {
 ---
 
 ## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=janon-devv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janon-devv&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6&locale=pt-br" />
-</div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=janon-devv&theme=tokyonight&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
