@@ -99,14 +99,6 @@ public class RaulJanonTeixeiraLeite {
 
 ---
 
-## 📊 Estatísticas do GitHub
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janon-devv&theme=tokyonight&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</div>
-
-
----
-
 <div align="center">
   <i>⚡ "Qualidade não é um ato, é um hábito." — Aristóteles ⚡</i>
 </div>
